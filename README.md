@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=richpeaua&label=Profile%20views&color=0e75b6&style=flat" alt="richpeaua" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=richpeaua" alt="richpeaua" /></a> </p>
-
 - 👨‍💻 All of my projects are available at [https://github.com/richpeaua](https://github.com/richpeaua)
 
 - 📫 How to reach me **mailto: rich.peaua@gmail.com**
@@ -37,6 +35,15 @@
   <a href="https://www.terraform.io/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" alt="git" width="70" height="70"/> 
   </a>
+  <a href="https://about.gitlab.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" alt="git" width="70" height="70"/> 
+  </a>
+  <a href="https://jfrog.com/artifactory/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/jfrog/jfrog-ar21.svg" alt="git" width="90" height="50"/> 
+  </a>
+  <a href="https://www.jenkins.io/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" alt="git" width="70" height="70"/> 
+  </a>
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="git" width="70" height="70"/> 
   </a>
@@ -52,5 +59,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=richpeaua&show_icons=true&locale=en&layout=compact" alt="richpeaua" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=richpeaua&show_icons=true&locale=en" alt="richpeaua" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=richpeaua&" alt="richpeaua" /></p>
