@@ -27,13 +27,27 @@
   
 </p>
     
+ 
+    
 <h4 align="left">Tools:</h4>
 <p align="left"> 
   <a href="https://kubernetes.io/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="git" width="70" height="70"/> 
   </a>
+  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="git" width="70" height="70"/> 
+  </a>
+   <a href="https://cloud.google.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" alt="git" width="70" height="70"/> 
+  </a>
+  <a href="https://www.ansible.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original.svg" alt="git" width="70" height="70"/> 
+  </a>
   <a href="https://www.terraform.io/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" alt="git" width="70" height="70"/> 
+  </a>
+  <a href="https://developer.hashicorp.com/packer" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/packer/packer-original-wordmark.svg" alt="git" width="70" height="70"/> 
   </a>
   <a href="https://about.gitlab.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" alt="git" width="70" height="70"/> 
@@ -41,12 +55,22 @@
   <a href="https://jfrog.com/artifactory/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/jfrog/jfrog-ar21.svg" alt="git" width="90" height="50"/> 
   </a>
+  <a href="https://argoproj.github.io/cd/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/argocd/argocd-original.svg" alt="git" width="70" height="70"/> 
+  </a>
+  <a href="https://circleci.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/circleci/circleci-plain-wordmark.svg" alt="git" width="70" height="70"/> 
+  </a>
   <a href="https://www.jenkins.io/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" alt="git" width="70" height="70"/> 
   </a>
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="git" width="70" height="70"/> 
   </a>
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="git" width="70" height="70"/> 
+  </a>
+  
   
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="70" height="70"/> 
